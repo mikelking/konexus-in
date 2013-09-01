@@ -1,6 +1,6 @@
 some text for testing...
 
-more
+more text
 
 adding some other test
 
