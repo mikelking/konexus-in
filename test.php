@@ -1,4 +1,7 @@
 <?
+
+/* Just a simple dev test...
+*/
 $URL='http://www.olivent.com/linkedin-bridge/basket/123456.php';
 
 $file = fopen ($URL, "r");
