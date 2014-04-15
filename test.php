@@ -1,4 +1,4 @@
-<?
+<php?
 
 /* Just a simple dev test...
 */
