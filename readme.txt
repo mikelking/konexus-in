@@ -1,3 +1,5 @@
+*** just a test
+
 Ok if you are reading this then you are either very bored or extremely curious. Basically 
 there are a number of issues with these plugins and the mostly revolve around the way that
 Wordpress handles page reloads and the inability to receive inbound connections to the 
